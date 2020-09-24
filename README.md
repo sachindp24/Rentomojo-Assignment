@@ -8,7 +8,7 @@ This application displays a list of Blogs posted by Users with their Username, C
 
 # Setting up the project
 
-If you have yarn installed skip Step 2:
+If you have yarn installed skip Step 3:
 
 ``` sh
 $ git clone https://github.com/sachindp24/Rentomojo-Assignment.git  //Step1
