@@ -7,12 +7,14 @@ This application displays a list of Blogs posted by Users with their Username, C
   - React JS (16.13.1)
 
 # Setting up the project
-If you have yarn installed skip to Step 2 else:
+
+If you have yarn installed skip Step 2:
 
 ``` sh
-$ npm i –g yarn   //Step1
-$ yarn install    //Step2
-$ yarn start      //Step3
+$ cd ./Rentomojo-Assignment //Step1
+$ npm i –g yarn             //Step2
+$ yarn install              //Step3
+$ yarn start                //Step4
 ```
 
   Verify the deployment by navigating to your server address in your preferred browser.
