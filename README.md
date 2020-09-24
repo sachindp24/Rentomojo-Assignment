@@ -11,10 +11,11 @@ This application displays a list of Blogs posted by Users with their Username, C
 If you have yarn installed skip Step 2:
 
 ``` sh
-$ cd ./Rentomojo-Assignment //Step1
-$ npm i –g yarn             //Step2
-$ yarn install              //Step3
-$ yarn start                //Step4
+$ git clone https://github.com/sachindp24/Rentomojo-Assignment.git  //Step1
+$ cd ./Rentomojo-Assignment                                         //Step2
+$ npm i –g yarn                                                     //Step3
+$ yarn install                                                      //Step4
+$ yarn start                                                        //Step5
 ```
 
   Verify the deployment by navigating to your server address in your preferred browser.
